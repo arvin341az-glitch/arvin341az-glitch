@@ -101,22 +101,21 @@ $ cat about_me.sh
 
 <div align="center">
 
-## 📲 Scan to Connect
-
-<img src="https://raw.githubusercontent.com/arvin341az-glitch/arvin341az-glitch/main/assets/qrcode.png" width="260"/>
-
-<sub>Scan with your camera to jump straight to this profile</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## 📡 Let's Build Something Together
 
-[![Telegram](https://img.shields.io/badge/Telegram-@CodeBoxo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeBoxo)
+<table>
+<tr>
+<td valign="middle">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@CodeBoxo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeBoxo)<br/>
 [![YouTube](https://img.shields.io/badge/YouTube-Codebox-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Code_Box-c6f)
+
+</td>
+<td valign="middle">
+<img src="https://raw.githubusercontent.com/arvin341az-glitch/arvin341az-glitch/main/assets/qrcode.png" width="90"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
