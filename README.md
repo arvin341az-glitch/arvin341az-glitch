@@ -82,9 +82,7 @@ $ cat about_me.sh
 </p>
 
 <p align="center">
-<p align="center">
-<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22horizontalBar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22VGC%22%2C%20%22railway-x3ui%22%2C%20%22RVG%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Stars%22%2C%20%22backgroundColor%22%3A%20%22%23f4c430%22%2C%20%22data%22%3A%20%5B7%2C%20385%2C%20231%5D%2C%20%22barPercentage%22%3A%200.6%7D%2C%20%7B%22label%22%3A%20%22Forks%22%2C%20%22backgroundColor%22%3A%20%223ba0a8%22%2C%20%22data%22%3A%20%5B28%2C%202086%2C%201269%5D%2C%20%22barPercentage%22%3A%200.6%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22labels%22%3A%20%7B%22fontColor%22%3A%20%22%23e6e6e6%22%2C%20%22fontSize%22%3A%2014%7D%2C%20%22position%22%3A%20%22top%22%7D%2C%20%22scales%22%3A%20%7B%22xAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22fontColor%22%3A%20%228b949e%22%2C%20%22fontSize%22%3A%2012%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%2221262d%22%2C%20%22drawBorder%22%3A%20false%7D%7D%5D%2C%20%22yAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22fontColor%22%3A%20%22%23e6e6e6%22%2C%20%22fontSize%22%3A%2014%7D%2C%20%22gridLines%22%3A%20%7B%22display%22%3A%20false%7D%7D%5D%7D%2C%20%22plugins%22%3A%20%7B%22datalabels%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%2C%20%22anchor%22%3A%20%22end%22%2C%20%22align%22%3A%20%22end%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2012%2C%20%22weight%22%3A%20%22bold%22%7D%7D%7D%7D%7D&backgroundColor=%230d1117&width=1200&height=350&devicePixelRatio=2" width="100%"/>
-</p>
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22RVG%22%2C%22railway-x3ui%22%2C%22VGC%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Stars%22%2C%22backgroundColor%22%3A%22%23f4c430%22%2C%22data%22%3A%5B231%2C385%2C7%5D%2C%22borderRadius%22%3A10%2C%22borderSkipped%22%3Afalse%2C%22barPercentage%22%3A0.6%7D%2C%7B%22label%22%3A%22Forks%22%2C%22backgroundColor%22%3A%22%2340E0D0%22%2C%22data%22%3A%5B1272%2C2086%2C28%5D%2C%22borderRadius%22%3A10%2C%22borderSkipped%22%3Afalse%2C%22barPercentage%22%3A0.6%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22fontColor%22%3A%22%23e6e6e6%22%2C%22fontSize%22%3A14%7D%2C%22position%22%3A%22top%22%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Stars%20%26%20Forks%20by%20Repository%22%2C%22fontColor%22%3A%22%2340E0D0%22%2C%22fontSize%22%3A18%7D%2C%22datalabels%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22anchor%22%3A%22end%22%2C%22align%22%3A%22end%22%2C%22font%22%3A%7B%22size%22%3A12%2C%22weight%22%3A%22bold%22%7D%7D%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%238b949e%22%2C%22fontSize%22%3A12%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%2321262d%22%2C%22drawBorder%22%3Afalse%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e6e6e6%22%2C%22fontSize%22%3A14%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%7D%7D%7D&backgroundColor=%230d1117&width=1200&height=380&devicePixelRatio=2" width="100%"/>
 </p>
 
 <p align="center">
@@ -98,6 +96,18 @@ $ cat about_me.sh
 <p align="center">
 <img src="https://raw.githubusercontent.com/arvin341az-glitch/arvin341az-glitch/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
+
+<br/>
+
+<div align="center">
+
+## 📲 Scan to Connect
+
+<img src="https://raw.githubusercontent.com/arvin341az-glitch/arvin341az-glitch/main/assets/qrcode.png" width="260"/>
+
+<sub>Scan with your camera to jump straight to this profile</sub>
+
+</div>
 
 <br/>
 
