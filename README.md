@@ -32,7 +32,7 @@ $ cat about_me.sh
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f6e0.svg" width="22" valign="middle"/> Tech Arsenal
 
 <div align="center">
 
@@ -42,7 +42,7 @@ $ cat about_me.sh
 
 <br/>
 
-## 📌 Featured Builds
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4cc.svg" width="22" valign="middle"/> Featured Builds
 
 <table>
 <tr>
@@ -70,11 +70,11 @@ $ cat about_me.sh
 
 <br/>
 
-## 📊 Stats & Activity
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ca.svg" width="22" valign="middle"/> Stats & Activity
 
 <p align="center">
 <a href="https://github.com/arvin341az-glitch" target="_blank">
-<img src="https://streak-stats.demolab.com/?user=arvin341az-glitch&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://raw.githubusercontent.com/arvin341az-glitch/arvin341az-glitch/main/assets/stats.svg" width="100%"/>
 </a>
 </p>
 
@@ -97,7 +97,7 @@ $ cat about_me.sh
 
 <br/>
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f40d.svg" width="22" valign="middle"/> Contribution Snake
 
 <p align="center">
 <a href="https://github.com/arvin341az-glitch" target="_blank">
@@ -109,7 +109,7 @@ $ cat about_me.sh
 
 <div align="center">
 
-## 📡 Let's Build Something Together
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4e1.svg" width="22" valign="middle"/> Let's Build Something Together
 
 <table>
 <tr>
