@@ -36,43 +36,23 @@ $ cat about_me.sh
 
 ## 📌 Featured Builds
 
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-<a href="https://github.com/arvin341az-glitch/RVG">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arvin341az-glitch&repo=RVG&theme=tokyonight&hide_border=true"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/arvin341az-glitch/railway-x3ui">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arvin341az-glitch&repo=railway-x3ui&theme=tokyonight&hide_border=true"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/arvin341az-glitch/VGC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arvin341az-glitch&repo=VGC&theme=tokyonight&hide_border=true"/>
-</a>
-</td>
-<td width="50%" valign="middle" align="center">
-<i>more shipping soon 👀</i>
-</td>
-</tr>
-</table>
+| Repo | Description | Stack | |
+|---|---|---|---|
+| **[RVG](https://github.com/arvin341az-glitch/RVG)** | Multi-protocol proxy management panel (Python & FastAPI, Railway) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/arvin341az-glitch/RVG?style=flat-square&color=2C5364) ![Forks](https://img.shields.io/github/forks/arvin341az-glitch/RVG?style=flat-square&color=2C5364) |
+| **[railway-x3ui](https://github.com/arvin341az-glitch/railway-x3ui)** | One-click 3x-ui panel deployment on Railway via Docker | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Stars](https://img.shields.io/github/stars/arvin341az-glitch/railway-x3ui?style=flat-square&color=2C5364) ![Forks](https://img.shields.io/github/forks/arvin341az-glitch/railway-x3ui?style=flat-square&color=2C5364) |
+| **[VGC](https://github.com/arvin341az-glitch/VGC)** | High-speed VLESS/WebSocket proxy gateway for GitHub Codespaces | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Stars](https://img.shields.io/github/stars/arvin341az-glitch/VGC?style=flat-square&color=2C5364) ![Forks](https://img.shields.io/github/forks/arvin341az-glitch/VGC?style=flat-square&color=2C5364) |
 
 <br/>
 
 ## 📊 Stats & Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arvin341az-glitch&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=arvin341az-glitch&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvin341az-glitch&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=arvin341az-glitch&theme=tokyonight&no-frame=true&row=2&column=3" height="165"/>
+<img src="https://img.shields.io/github/followers/arvin341az-glitch?style=for-the-badge&color=2C5364&labelColor=0f2027"/>
+<img src="https://img.shields.io/github/stars/arvin341az-glitch?style=for-the-badge&color=2C5364&labelColor=0f2027"/>
 </p>
 
 <br/>
