@@ -36,11 +36,29 @@ $ cat about_me.sh
 
 ## 📌 Featured Builds
 
-| Repo | Description | Stack | |
-|---|---|---|---|
-| **[RVG](https://github.com/arvin341az-glitch/RVG)** | Multi-protocol proxy management panel (Python & FastAPI, Railway) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/arvin341az-glitch/RVG?style=flat-square&color=2C5364) ![Forks](https://img.shields.io/github/forks/arvin341az-glitch/RVG?style=flat-square&color=2C5364) |
-| **[railway-x3ui](https://github.com/arvin341az-glitch/railway-x3ui)** | One-click 3x-ui panel deployment on Railway via Docker | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Stars](https://img.shields.io/github/stars/arvin341az-glitch/railway-x3ui?style=flat-square&color=2C5364) ![Forks](https://img.shields.io/github/forks/arvin341az-glitch/railway-x3ui?style=flat-square&color=2C5364) |
-| **[VGC](https://github.com/arvin341az-glitch/VGC)** | High-speed VLESS/WebSocket proxy gateway for GitHub Codespaces | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Stars](https://img.shields.io/github/stars/arvin341az-glitch/VGC?style=flat-square&color=2C5364) ![Forks](https://img.shields.io/github/forks/arvin341az-glitch/VGC?style=flat-square&color=2C5364) |
+<table>
+<tr>
+<th>Repo</th><th>Description</th><th>Stack</th><th>Stats</th>
+</tr>
+<tr>
+<td><sub><b><a href="https://github.com/arvin341az-glitch/RVG">RVG</a></b></sub></td>
+<td><sub>Multi-protocol proxy management panel (Python & FastAPI, Railway)</sub></td>
+<td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/></td>
+<td><img src="https://img.shields.io/github/stars/arvin341az-glitch/RVG?style=flat-square&color=2C5364" height="20"/> <img src="https://img.shields.io/github/forks/arvin341az-glitch/RVG?style=flat-square&color=2C5364" height="20"/></td>
+</tr>
+<tr>
+<td><sub><b><a href="https://github.com/arvin341az-glitch/railway-x3ui">railway-x3ui</a></b></sub></td>
+<td><sub>One-click 3x-ui panel deployment on Railway via Docker</sub></td>
+<td><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20"/></td>
+<td><img src="https://img.shields.io/github/stars/arvin341az-glitch/railway-x3ui?style=flat-square&color=2C5364" height="20"/> <img src="https://img.shields.io/github/forks/arvin341az-glitch/railway-x3ui?style=flat-square&color=2C5364" height="20"/></td>
+</tr>
+<tr>
+<td><sub><b><a href="https://github.com/arvin341az-glitch/VGC">VGC</a></b></sub></td>
+<td><sub>High-speed VLESS/WebSocket proxy gateway for GitHub Codespaces</sub></td>
+<td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/></td>
+<td><img src="https://img.shields.io/github/stars/arvin341az-glitch/VGC?style=flat-square&color=2C5364" height="20"/> <img src="https://img.shields.io/github/forks/arvin341az-glitch/VGC?style=flat-square&color=2C5364" height="20"/></td>
+</tr>
+</table>
 
 <br/>
 
