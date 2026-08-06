@@ -1,0 +1,29 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#40E0D0"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="218" rx="18" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
+  <g text-anchor="middle">
+    <text x="180" y="88" font-family="Fira Code, monospace" font-size="42" font-weight="700" fill="#40E0D0">521</text>
+    <text x="180" y="122" font-family="Fira Code, monospace" font-size="15" fill="#e6e6e6">Total Contributions</text>
+    <text x="180" y="146" font-family="Fira Code, monospace" font-size="12" fill="#8b949e">May 9 - Present</text>
+  </g>
+  <line x1="330" y1="40" x2="330" y2="180" stroke="#21262d" stroke-width="1.5"/>
+  <g text-anchor="middle">
+    <circle cx="450" cy="80" r="42" fill="none" stroke="url(#ringGrad)" stroke-width="4"/>
+    <path d="M450 54 c 5 7, 6 11, 2 15 c 4 -1, 6 -5, 5 -9 c 4 4, 5 11, 1 16 c -4 5, -12 5, -14 -1 c -2 -5, 1 -11, 6 -21 z"
+          fill="#40E0D0"/>
+    <text x="450" y="98" font-family="Fira Code, monospace" font-size="20" font-weight="700" fill="#e6e6e6">1</text>
+    <text x="450" y="140" font-family="Fira Code, monospace" font-size="15" font-weight="700" fill="#e6e6e6">Current Streak</text>
+    <text x="450" y="163" font-family="Fira Code, monospace" font-size="12" fill="#8b949e">Aug 6</text>
+  </g>
+  <line x1="570" y1="40" x2="570" y2="180" stroke="#21262d" stroke-width="1.5"/>
+  <g text-anchor="middle">
+    <text x="720" y="88" font-family="Fira Code, monospace" font-size="42" font-weight="700" fill="#40E0D0">5</text>
+    <text x="720" y="122" font-family="Fira Code, monospace" font-size="15" fill="#e6e6e6">Longest Streak</text>
+    <text x="720" y="146" font-family="Fira Code, monospace" font-size="12" fill="#8b949e">Jun 6 - Jun 10</text>
+  </g>
+</svg>
