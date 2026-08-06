@@ -81,6 +81,14 @@ $ cat about_me.sh
 <img src="https://img.shields.io/github/stars/arvin341az-glitch?style=for-the-badge&color=2C5364&labelColor=0f2027"/>
 </p>
 
+<p align="center">
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22RVG%22%2C%20%22railway-x3ui%22%2C%20%22VGC%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Stars%22%2C%20%22backgroundColor%22%3A%20%22%23f4c430%22%2C%20%22data%22%3A%20%5B231%2C%20385%2C%207%5D%7D%2C%20%7B%22label%22%3A%20%22Forks%22%2C%20%22backgroundColor%22%3A%20%22%232C5364%22%2C%20%22data%22%3A%20%5B1269%2C%202086%2C%2028%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Stars%20%26%20Forks%20per%20Repo%22%2C%20%22fontColor%22%3A%20%22%23ffffff%22%7D%2C%20%22legend%22%3A%20%7B%22labels%22%3A%20%7B%22fontColor%22%3A%20%22%23ffffff%22%7D%7D%2C%20%22scales%22%3A%20%7B%22xAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22fontColor%22%3A%20%22%23ffffff%22%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%22%23333333%22%7D%7D%5D%2C%20%22yAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22fontColor%22%3A%20%22%23ffffff%22%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%22%23333333%22%7D%7D%5D%7D%7D%7D&backgroundColor=%230d1117&width=600&height=350" width="500"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arvin341az-glitch&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
+</p>
+
 <br/>
 
 ## 🐍 Contribution Snake
