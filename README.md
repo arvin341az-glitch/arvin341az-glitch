@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
     ___    ____ _    _______   __
    /   |  / __ \ |  / /  _/ | / /
@@ -7,8 +9,6 @@
 
 full-stack developer · backend & infra
 ```
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=800&height=30&lines=root%40arvin%3A~%24+whoami;full-stack+developer;building+RVG+Gateway+%26+Klasban;async+python+%7C+react+%7C+cloudflare;shipping+since+day+one+%F0%9F%9A%80" />
 
@@ -93,16 +93,17 @@ $ cat about_me.sh
 
 <div align="center">
 
-```
-$ echo "thanks for scrolling this far"
-> connect with me:
-```
+## 📡 Let's Build Something Together
 
 [![Telegram](https://img.shields.io/badge/Telegram-@CodeBoxo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeBoxo)
 [![YouTube](https://img.shields.io/badge/YouTube-Codebox-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Code_Box-c6f)
 
-<img src="https://komarev.com/ghpvc/?username=arvin341az-glitch&label=Profile%20Views&color=2c5364&style=flat" />
+<br/>
 
-<sub>⚡ generated & maintained with code, not templates</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=600&color=888888&center=true&width=500&height=25&lines=thanks+for+scrolling+this+far+%F0%9F%91%80;always+open+to+interesting+ideas" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=arvin341az-glitch&label=Profile%20Views&color=2c5364&style=for-the-badge" />
 
 </div>
