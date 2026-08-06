@@ -1,8 +1,16 @@
+```
+    ___    ____ _    _______   __
+   /   |  / __ \ |  / /  _/ | / /
+  / /| | / /_/ / | / // //  |/ / 
+ / ___ |/ _, _/| |/ // // /|  /  
+/_/  |_/_/ |_| |___/___/_/ |_/   
+
+full-stack developer · backend & infra
+```
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=ARVIN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20Infra&descAlignY=58&descAlign=50" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=800&height=30&lines=root%40arvin%3A~%24+whoami;full-stack+developer;building+RVG+Gateway+%26+Klasban;async+python+%7C+react+%7C+cloudflare;shipping+since+day+one+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=800&height=30&lines=root%40arvin%3A~%24+whoami;full-stack+developer;building+RVG+Gateway+%26+Klasban;async+python+%7C+react+%7C+cloudflare;shipping+since+day+one+%F0%9F%9A%80" />
 
 </div>
 
@@ -85,10 +93,16 @@ $ cat about_me.sh
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:2c5364&height=150&section=footer&animation=fadeIn"/>
+```
+$ echo "thanks for scrolling this far"
+> connect with me:
+```
+
+[![Telegram](https://img.shields.io/badge/Telegram-@CodeBoxo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeBoxo)
+[![YouTube](https://img.shields.io/badge/YouTube-Codebox-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Code_Box-c6f)
 
 <img src="https://komarev.com/ghpvc/?username=arvin341az-glitch&label=Profile%20Views&color=2c5364&style=flat" />
 
-<i>⚡ generated & maintained with code, not templates</i>
+<sub>⚡ generated & maintained with code, not templates</sub>
 
 </div>
