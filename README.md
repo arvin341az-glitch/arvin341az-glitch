@@ -1,3 +1,5 @@
+> **Security Notice:** If you believe any of our projects do not comply with GitHub's Community Guidelines or Acceptable Use Policies, please let us know. We make every effort to ensure all our projects are secure and compliant with GitHub's policies.
+
 <div align="center">
 
 ```
