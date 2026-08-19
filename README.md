@@ -64,12 +64,6 @@ $ cat about_me.sh
 <td><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20"/></td>
 <td><img src="https://img.shields.io/github/stars/arvin341az-glitch/railway-x3ui?style=flat-square&color=2C5364" height="20"/> <img src="https://img.shields.io/github/forks/arvin341az-glitch/railway-x3ui?style=flat-square&color=2C5364" height="20"/></td>
 </tr>
-<tr>
-<td><sub><b><a href="https://github.com/arvin341az-glitch/VGC">VGC</a></b></sub></td>
-<td><sub>High-speed VLESS/WebSocket proxy gateway for GitHub Codespaces</sub></td>
-<td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/></td>
-<td><img src="https://img.shields.io/github/stars/arvin341az-glitch/VGC?style=flat-square&color=2C5364" height="20"/> <img src="https://img.shields.io/github/forks/arvin341az-glitch/VGC?style=flat-square&color=2C5364" height="20"/></td>
-</tr>
 </table>
 
 <br/>
