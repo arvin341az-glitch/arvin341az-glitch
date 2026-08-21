@@ -1,0 +1,31 @@
+<svg viewBox="0 0 900 372" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="100%" stop-color="#6366f1"/>
+  </linearGradient>
+</defs>
+
+<rect x="1" y="1" width="898" height="370" rx="14" fill="#0b1220" stroke="#17233a" stroke-width="1.5"/>
+<circle cx="28" cy="28" r="4" fill="#f87171" fill-opacity="0.85"/>
+<circle cx="44" cy="28" r="4" fill="#fbbf24" fill-opacity="0.85"/>
+<circle cx="60" cy="28" r="4" fill="#34d399" fill-opacity="0.85"/>
+<text x="76" y="33" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#4f6690">gateway.route --list services</text>
+<line x1="24" y1="50" x2="876" y2="50" stroke="#17233a" stroke-width="1"/>
+<text x="24" y="80" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" font-weight="700" letter-spacing="3" fill="url(#grad1)">// 02  SERVICES</text>
+<rect x="24" y="94" width="10" height="10" rx="2" fill="#38bdf8"/>
+<text x="46" y="103" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="16" font-weight="700" fill="#e6edf5">RVG Gateway</text>
+<text x="46" y="124" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#6b7ea3">Multi-protocol proxy management panel, deployed on Railway</text>
+<rect x="46.0" y="129.0" width="65.2" height="22" rx="11" fill="none" stroke="#38bdf8" stroke-opacity="0.55"/><text x="78.6" y="144.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#38bdf8">python</text>
+<rect x="119.2" y="129.0" width="72.4" height="22" rx="11" fill="none" stroke="#34d399" stroke-opacity="0.55"/><text x="155.4" y="144.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#34d399">fastapi</text>
+<rect x="199.6" y="129.0" width="58.0" height="22" rx="11" fill="none" stroke="#a5b4fc" stroke-opacity="0.55"/><text x="228.6" y="144.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#a5b4fc">infra</text>
+<text x="876" y="103" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#33415c">github.com/arvin341az-glitch/RVG</text>
+<line x1="24" y1="162" x2="876" y2="162" stroke="#141f34" stroke-width="1"/>
+<rect x="24" y="176" width="10" height="10" rx="2" fill="#818cf8"/>
+<text x="46" y="267" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="16" font-weight="700" fill="#e6edf5">railway-x3ui</text>
+<text x="46" y="288" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#6b7ea3">One-click 3x-ui panel deployment on Railway, via Docker</text>
+<rect x="46.0" y="293.0" width="65.2" height="22" rx="11" fill="none" stroke="#38bdf8" stroke-opacity="0.55"/><text x="78.6" y="308.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#38bdf8">docker</text>
+<rect x="119.2" y="293.0" width="65.2" height="22" rx="11" fill="none" stroke="#34d399" stroke-opacity="0.55"/><text x="151.8" y="308.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#34d399">devops</text>
+<text x="876" y="267" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#33415c">github.com/arvin341az-glitch/railway-x3ui</text>
+</svg>
