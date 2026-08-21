@@ -1,0 +1,61 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="100%" stop-color="#6366f1"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+    <stop offset="0%" stop-color="#1c3a63" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#060b14" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+    <path d="M42 0H0V42" fill="none" stroke="#101c30" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.55"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="300" fill="#060b14"/>
+<rect width="1200" height="300" fill="url(#grid)"/>
+<ellipse cx="600" cy="140" rx="520" ry="220" fill="url(#glow)"/>
+
+<g><line x1="70.0" y1="60.0" x2="130.0" y2="95.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
+<line x1="130.0" y1="95.0" x2="95.0" y2="150.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
+<line x1="95.0" y1="150.0" x2="150.0" y2="190.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
+<line x1="150.0" y1="190.0" x2="60.0" y2="225.0" stroke="url(#grad1)" stroke-opacity="0.35" stroke-width="1.3" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="2.5s" repeatCount="indefinite"/></line>
+<line x1="60.0" y1="225.0" x2="140.0" y2="255.0" stroke="url(#grad1)" stroke-opacity="0.35" stroke-width="1.3" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="2.6s" repeatCount="indefinite"/></line>
+<circle cx="70.0" cy="60.0" r="2.9" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.7s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="130.0" cy="95.0" r="2.3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.9s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="95.0" cy="150.0" r="2.9" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.3s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="150.0" cy="190.0" r="3.3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="60.0" cy="225.0" r="2.3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="140.0" cy="255.0" r="2.5" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.1s" begin="0.3s" repeatCount="indefinite"/></circle></g>
+<g><line x1="1130.0" y1="55.0" x2="1065.0" y2="90.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
+<line x1="1065.0" y1="90.0" x2="1105.0" y2="145.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
+<line x1="1105.0" y1="145.0" x2="1050.0" y2="185.0" stroke="url(#grad1)" stroke-opacity="0.35" stroke-width="1.3" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="2.6s" repeatCount="indefinite"/></line>
+<line x1="1050.0" y1="185.0" x2="1140.0" y2="220.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
+<line x1="1140.0" y1="220.0" x2="1060.0" y2="250.0" stroke="url(#grad1)" stroke-opacity="0.35" stroke-width="1.3" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="3.7s" repeatCount="indefinite"/></line>
+<circle cx="1130.0" cy="55.0" r="2.4" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.1s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="1065.0" cy="90.0" r="2.6" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.1s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="1105.0" cy="145.0" r="2.3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.5s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="1050.0" cy="185.0" r="2.7" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.7s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1140.0" cy="220.0" r="2.7" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.7s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="1060.0" cy="250.0" r="3.0" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.6s" begin="1.1s" repeatCount="indefinite"/></circle></g>
+<text x="42" y="42" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#3d4d6e">~/arvin</text>
+
+<g>
+  <rect x="1052" y="26" width="106" height="26" rx="13" fill="#0b1220" stroke="#1b2b44"/>
+  <circle cx="1071" cy="39" r="4" fill="#34d399">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1084" y="43" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8aa0c8">online</text>
+</g>
+
+<text x="600" y="158" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="92" font-weight="700" letter-spacing="10" fill="url(#grad1)">ARVIN</text>
+<text x="600" y="196" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="15" letter-spacing="5" fill="#5b6b8c">BACKEND &amp; INFRASTRUCTURE ENGINEER</text>
+<text x="474" y="238" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#33415c">route:</text>
+<text x="536" y="238" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#4f6690">client -&gt; edge -&gt; gateway -&gt; origin</text>
+<rect x="805" y="226" width="9" height="16" fill="#38bdf8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
