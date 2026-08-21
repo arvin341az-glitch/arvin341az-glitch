@@ -22,7 +22,6 @@
 <rect x="199.6" y="129.0" width="58.0" height="22" rx="11" fill="none" stroke="#a5b4fc" stroke-opacity="0.55"/><text x="228.6" y="144.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#a5b4fc">infra</text>
 <text x="876" y="103" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#33415c">github.com/arvin341az-glitch/RVG</text>
 <line x1="24" y1="162" x2="876" y2="162" stroke="#141f34" stroke-width="1"/>
-<rect x="24" y="176" width="10" height="10" rx="2" fill="#818cf8"/>
 <text x="46" y="267" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="16" font-weight="700" fill="#e6edf5">railway-x3ui</text>
 <text x="46" y="288" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#6b7ea3">One-click 3x-ui panel deployment on Railway, via Docker</text>
 <rect x="46.0" y="293.0" width="65.2" height="22" rx="11" fill="none" stroke="#38bdf8" stroke-opacity="0.55"/><text x="78.6" y="308.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#38bdf8">docker</text>
