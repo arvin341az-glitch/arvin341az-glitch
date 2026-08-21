@@ -21,7 +21,6 @@
 <rect x="119.2" y="129.0" width="72.4" height="22" rx="11" fill="none" stroke="#34d399" stroke-opacity="0.55"/><text x="155.4" y="144.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#34d399">fastapi</text>
 <rect x="199.6" y="129.0" width="58.0" height="22" rx="11" fill="none" stroke="#a5b4fc" stroke-opacity="0.55"/><text x="228.6" y="144.0" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#a5b4fc">infra</text>
 <text x="876" y="103" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" fill="#33415c">github.com/arvin341az-glitch/RVG</text>
-<line x1="24" y1="162" x2="876" y2="162" stroke="#141f34" stroke-width="1"/>
 <rect x="24" y="176" width="10" height="10" rx="2" fill="#818cf8"/>
 <rect x="24" y="258" width="10" height="10" rx="2" fill="#c084fc"/>
 <text x="46" y="267" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="16" font-weight="700" fill="#e6edf5">railway-x3ui</text>
