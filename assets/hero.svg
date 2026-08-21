@@ -1,61 +1,67 @@
-<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
 <defs>
-  <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#38bdf8"/>
-    <stop offset="100%" stop-color="#6366f1"/>
-  </linearGradient>
-  <radialGradient id="glow" cx="50%" cy="45%" r="60%">
-    <stop offset="0%" stop-color="#1c3a63" stop-opacity="0.55"/>
-    <stop offset="100%" stop-color="#060b14" stop-opacity="0"/>
-  </radialGradient>
-  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-    <path d="M42 0H0V42" fill="none" stroke="#101c30" stroke-width="1"/>
-  </pattern>
-  <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
-    <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.55"/>
-  </linearGradient>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39d5ff"/><stop offset=".52" stop-color="#7c7cff"/><stop offset="1" stop-color="#f05cff"/></linearGradient>
+  <linearGradient id="gw" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39d5ff" stop-opacity="0"/><stop offset=".5" stop-color="#39d5ff" stop-opacity=".8"/><stop offset="1" stop-color="#c65cff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="bg"><stop stop-color="#132b4d" stop-opacity=".75"/><stop offset="1" stop-color="#050912" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="7"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="2.5"/></filter>
+  <clipPath id="c1"><rect x="70" y="70" width="300" height="72"/></clipPath>
+  <clipPath id="c2"><rect x="830" y="82" width="290" height="82"/></clipPath>
 </defs>
-<rect width="1200" height="300" fill="#060b14"/>
-<rect width="1200" height="300" fill="url(#grid)"/>
-<ellipse cx="600" cy="140" rx="520" ry="220" fill="url(#glow)"/>
+<rect width="1200" height="360" fill="#050912"/>
+<ellipse cx="600" cy="165" rx="560" ry="270" fill="url(#bg)"/>
+<path d="M0 42H1200M0 318H1200" stroke="#13223a"/>
+<g opacity=".7" stroke="#14233a" stroke-width="1"><path d="M0 90H1200M0 180H1200M0 270H1200"/><path d="M150 0V360M300 0V360M450 0V360M750 0V360M900 0V360M1050 0V360"/></g>
 
-<g><line x1="70.0" y1="60.0" x2="130.0" y2="95.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
-<line x1="130.0" y1="95.0" x2="95.0" y2="150.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
-<line x1="95.0" y1="150.0" x2="150.0" y2="190.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
-<line x1="150.0" y1="190.0" x2="60.0" y2="225.0" stroke="url(#grad1)" stroke-opacity="0.35" stroke-width="1.3" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="2.5s" repeatCount="indefinite"/></line>
-<line x1="60.0" y1="225.0" x2="140.0" y2="255.0" stroke="url(#grad1)" stroke-opacity="0.35" stroke-width="1.3" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="2.6s" repeatCount="indefinite"/></line>
-<circle cx="70.0" cy="60.0" r="2.9" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.7s" begin="0.4s" repeatCount="indefinite"/></circle>
-<circle cx="130.0" cy="95.0" r="2.3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.9s" begin="0.5s" repeatCount="indefinite"/></circle>
-<circle cx="95.0" cy="150.0" r="2.9" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.3s" begin="1.1s" repeatCount="indefinite"/></circle>
-<circle cx="150.0" cy="190.0" r="3.3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="1.2s" repeatCount="indefinite"/></circle>
-<circle cx="60.0" cy="225.0" r="2.3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.1s" begin="0.1s" repeatCount="indefinite"/></circle>
-<circle cx="140.0" cy="255.0" r="2.5" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.1s" begin="0.3s" repeatCount="indefinite"/></circle></g>
-<g><line x1="1130.0" y1="55.0" x2="1065.0" y2="90.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
-<line x1="1065.0" y1="90.0" x2="1105.0" y2="145.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
-<line x1="1105.0" y1="145.0" x2="1050.0" y2="185.0" stroke="url(#grad1)" stroke-opacity="0.35" stroke-width="1.3" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="2.6s" repeatCount="indefinite"/></line>
-<line x1="1050.0" y1="185.0" x2="1140.0" y2="220.0" stroke="url(#grad1)" stroke-opacity="0.22" stroke-width="1.2"/>
-<line x1="1140.0" y1="220.0" x2="1060.0" y2="250.0" stroke="url(#grad1)" stroke-opacity="0.35" stroke-width="1.3" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="3.7s" repeatCount="indefinite"/></line>
-<circle cx="1130.0" cy="55.0" r="2.4" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.1s" begin="1.3s" repeatCount="indefinite"/></circle>
-<circle cx="1065.0" cy="90.0" r="2.6" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.1s" begin="0.1s" repeatCount="indefinite"/></circle>
-<circle cx="1105.0" cy="145.0" r="2.3" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.5s" begin="1.4s" repeatCount="indefinite"/></circle>
-<circle cx="1050.0" cy="185.0" r="2.7" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.7s" begin="1.2s" repeatCount="indefinite"/></circle>
-<circle cx="1140.0" cy="220.0" r="2.7" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.7s" begin="1.6s" repeatCount="indefinite"/></circle>
-<circle cx="1060.0" cy="250.0" r="3.0" fill="#38bdf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.6s" begin="1.1s" repeatCount="indefinite"/></circle></g>
-<text x="42" y="42" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#3d4d6e">~/arvin</text>
-
-<g>
-  <rect x="1052" y="26" width="106" height="26" rx="13" fill="#0b1220" stroke="#1b2b44"/>
-  <circle cx="1071" cy="39" r="4" fill="#34d399">
-    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="1084" y="43" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8aa0c8">online</text>
+<!-- living code -->
+<g font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#4e7599" clip-path="url(#c1)">
+ <text x="70" y="82">const signal = await edge.connect()</text>
+ <text x="70" y="101" fill="#42647f">for (const node of network) {</text>
+ <text x="70" y="120" fill="#6a76b7">  node.sync({ mode: 'realtime' })</text>
+ <text x="70" y="139" fill="#42647f">}</text>
+ <rect x="70" y="62" width="0" height="90" fill="#07101d"><animate attributeName="width" values="0;300;300;0;0" keyTimes="0;.25;.55;.8;1" dur="8s" repeatCount="indefinite"/></rect>
+</g>
+<g font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#4e7599" clip-path="url(#c2)">
+ <text x="830" y="96" fill="#5f6fae">async function deploy() {</text>
+ <text x="830" y="115">  await build('rvg')</text>
+ <text x="830" y="134" fill="#6b7fa0">  return gateway.ready()</text>
+ <text x="830" y="153" fill="#5f6fae">}</text>
+ <rect x="830" y="76" width="0" height="100" fill="#07101d"><animate attributeName="width" values="0;290;290;0;0" keyTimes="0;.25;.55;.8;1" dur="8s" begin="2.2s" repeatCount="indefinite"/></rect>
 </g>
 
-<text x="600" y="158" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="92" font-weight="700" letter-spacing="10" fill="url(#grad1)">ARVIN</text>
-<text x="600" y="196" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="15" letter-spacing="5" fill="#5b6b8c">BACKEND &amp; INFRASTRUCTURE ENGINEER</text>
-<text x="474" y="238" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#33415c">route:</text>
-<text x="536" y="238" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#4f6690">client -&gt; edge -&gt; gateway -&gt; origin</text>
-<rect x="805" y="226" width="9" height="16" fill="#38bdf8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<!-- moving wave particles -->
+<g fill="none" stroke="url(#gw)" stroke-width="1.4" opacity=".65">
+ <path d="M-60 258 C110 180 210 335 390 250 S670 170 850 255 S1090 335 1260 230"/>
+ <path d="M-60 274 C120 196 220 348 400 266 S680 188 860 270 S1090 348 1260 244" opacity=".45"/>
+</g>
+<g fill="#43d9ff">
+ <circle r="2.5"><animateMotion dur="7s" repeatCount="indefinite" path="M-60 258 C110 180 210 335 390 250 S670 170 850 255 S1090 335 1260 230"/></circle>
+ <circle r="1.8" opacity=".7"><animateMotion dur="5.8s" begin="-2s" repeatCount="indefinite" path="M-60 274 C120 196 220 348 400 266 S680 188 860 270 S1090 348 1260 244"/></circle>
+ <circle r="2.2" fill="#bb6cff"><animateMotion dur="8.5s" begin="-4s" repeatCount="indefinite" path="M-60 258 C110 180 210 335 390 250 S670 170 850 255 S1090 335 1260 230"/></circle>
+ <circle r="1.4" opacity=".6"><animateMotion dur="6.4s" begin="-1s" repeatCount="indefinite" path="M-60 274 C120 196 220 348 400 266 S680 188 860 270 S1090 348 1260 244"/></circle>
+</g>
+<g fill="#59dcff" opacity=".75">
+ <circle cx="90" cy="245" r="1.8"><animate attributeName="cy" values="245;235;245" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="180" cy="286" r="1.4"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="1040" cy="248" r="1.8"><animate attributeName="cy" values="248;238;248" dur="2.6s" repeatCount="indefinite"/></circle><circle cx="1130" cy="286" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- central neon cube -->
+<g transform="translate(600 164)">
+ <path d="M-150 -82 L0 -122 L150 -82 L150 88 L0 126 L-150 88 Z" fill="#07101c" fill-opacity=".82" stroke="url(#g)" stroke-width="2"/>
+ <path d="M-150 -82 L0 -28 L150 -82 M0 -28 V126 M-150 88 L0 34 L150 88" fill="none" stroke="#55d9ff" stroke-opacity=".55"/>
+ <path d="M-124 -68 L0 -101 L124 -68 L124 69 L0 101 L-124 69 Z" fill="none" stroke="#7f8fff" stroke-opacity=".45"/>
+ <path d="M-118 -66 L0 -95 L118 -66" fill="none" stroke="#ef6cff" stroke-opacity=".7"/>
+ <text x="0" y="30" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="74" font-weight="800" letter-spacing="-4" fill="url(#g)">CB</text>
+ <text x="0" y="58" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" letter-spacing="4" fill="#7e9bc4">CODE BOX</text>
+ <path d="M-175 -96L-188 -101M175 -96L188 -101M-175 101L-188 106M175 101L188 106" stroke="#48d9ff"/>
+</g>
+
+<!-- foreground labels -->
+<g font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+ <text x="34" y="31" font-size="11" fill="#3e5d7c">~/arvin/profile</text>
+ <text x="1166" y="31" text-anchor="end" font-size="11" fill="#3e5d7c">LIVE / SVG</text>
+ <text x="600" y="310" text-anchor="middle" font-size="23" font-weight="700" letter-spacing="8" fill="url(#g)">CODE BOX</text>
+ <text x="600" y="332" text-anchor="middle" font-size="10" letter-spacing="4" fill="#587394">PROGRAMMING · CREATIVE CODING · INFRASTRUCTURE</text>
+</g>
+<!-- scanning light -->
+<rect x="0" y="0" width="4" height="360" fill="#56dfff" opacity=".35"><animate attributeName="x" from="0" to="1196" dur="6s" repeatCount="indefinite"/></rect>
 </svg>
