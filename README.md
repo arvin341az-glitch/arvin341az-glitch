@@ -4,17 +4,7 @@
 
 
 
-<br/>
 
-## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f6e0.svg" width="22" valign="middle"/> Tech Arsenal
-
-<div align="center">
-
-![Python](https://skillicons.dev/icons?i=py) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![React](https://skillicons.dev/icons?i=react) ![JS](https://skillicons.dev/icons?i=js) ![PHP](https://skillicons.dev/icons?i=php) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![VSCode](https://skillicons.dev/icons?i=vscode)
-
-</div>
-
-<br/>
 
 ## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4cc.svg" width="22" valign="middle"/> Featured Builds
 
