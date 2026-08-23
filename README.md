@@ -2,37 +2,7 @@
 > **Security Notice**
 > If you believe this project does not comply with GitHub's Community Guidelines or Acceptable Use Policies, please let us know. We make every effort to ensure all our projects are secure and compliant with GitHub's policies.
 
-<div align="center">
 
-```
-    ___    ____ _    _______   __   _____ _________  _______ 
-   /   |  / __ \ |  / /  _/ | / /  / ___//  _/__  / <  / __ \
-  / /| | / /_/ / | / // //  |/ /   \__ \ / /   / /  / / / / /
- / ___ |/ _, _/| |/ // // /|  /   ___/ // /   / /__/ / /_/ / 
-/_/  |_/_/ |_| |___/___/_/ |_/   /____/___/  /____/_/\____/  
-
-full-stack developer · backend & infra
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=800&height=30&lines=root%40arvin%3A~%24+whoami;full-stack+developer;building+RVG+Gateway;async+python+%7C+react+%7C+cloudflare;shipping+since+day+one+%F0%9F%9A%80" />
-
-</div>
-
-<br/>
-
-```bash
-$ cat about_me.sh
-
-> name        : Arvin
-> role        : Full-Stack Developer
-> focus       : backend systems, infra, proxy tooling
-> building    : RVG Gateway, RVG Central
-> stack       : Python · FastAPI · React · Cloudflare Workers
-> deploy      : Railway
-> content     : youtube.com/@Code_Box-c6f
-> contact     : t.me/CodeBoxo
-> status      : compiling ideas into production...
-```
 
 <br/>
 
