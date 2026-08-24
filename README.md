@@ -8,7 +8,7 @@
 
 <img align="right" src="https://railwayx3ui.page.gd/images/codebox_circle.gif" width="230">
 
-<p><em>Frontend Dev For You<br>I'm a full stack developer</em></p>
+<p><em>Frontend Dev ohh no<br>I'm a full stack developer</em></p>
 
 [![Telegram: CodeBox](https://img.shields.io/badge/-CodeBox-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/CodeBoxo)
 [![YouTube: CodeBox](https://img.shields.io/badge/-CodeBox-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Code_Box-c6f)
